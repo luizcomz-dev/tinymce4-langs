@@ -1,0 +1,19 @@
+{
+  "name": "tinymce4-langs",
+  "version": "1.0.0",
+  "description": "TinyMCE 4 (https://www.tiny.cloud/) language pack.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizheming/tinymce4-langs.git"
+  },
+  "keywords": [
+    "tinymce",
+    "language-pack"
+  ],
+  "author": "Luiz Guilherme Heming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luizheming/tinymce4-langs/issues"
+  },
+  "homepage": "https://github.com/luizheming/tinymce4-langs#readme"
+}
